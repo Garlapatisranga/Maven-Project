@@ -95,6 +95,11 @@
           <url>http://localhost:8080/manager</url>
         </configuration>
       </plugin>
+      <plugin>
+              <groupId>ord.codehaus.mojo</groupId>
+              <artifactId>sonar-maven-plugin</artifactId>
+              <version>3.9.0.2155</version>
+      </plugin>
     </plugins>
   </build>
 
