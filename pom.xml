@@ -6,7 +6,7 @@
   <artifactId>WebApplication</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>WebApplication</name>
+  <name>Ranga</name>
   <url>http://maven.apache.org</url>
 
   <properties>
