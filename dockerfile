@@ -11,9 +11,9 @@ RUN touch /opt/games/ball
 
 RUN cd /opt/games/ && git add ball
 
-COPY ranga /opt/games
+#COPY ranga /opt/games
 
-RUN cd /opt/games && git add ranga
+#RUN cd /opt/games && git add .
 
 RUN git config --global user.name "Ranga"
 
